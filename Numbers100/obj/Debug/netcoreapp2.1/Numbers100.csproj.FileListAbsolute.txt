@@ -1,0 +1,11 @@
+C:\Users\Ronad\source\repos\Numbers100\Numbers100\bin\Debug\netcoreapp2.1\Numbers100.deps.json
+C:\Users\Ronad\source\repos\Numbers100\Numbers100\bin\Debug\netcoreapp2.1\Numbers100.runtimeconfig.json
+C:\Users\Ronad\source\repos\Numbers100\Numbers100\bin\Debug\netcoreapp2.1\Numbers100.runtimeconfig.dev.json
+C:\Users\Ronad\source\repos\Numbers100\Numbers100\bin\Debug\netcoreapp2.1\Numbers100.dll
+C:\Users\Ronad\source\repos\Numbers100\Numbers100\bin\Debug\netcoreapp2.1\Numbers100.pdb
+C:\Users\Ronad\source\repos\Numbers100\Numbers100\obj\Debug\netcoreapp2.1\Numbers100.csprojAssemblyReference.cache
+C:\Users\Ronad\source\repos\Numbers100\Numbers100\obj\Debug\netcoreapp2.1\Numbers100.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\Numbers100\Numbers100\obj\Debug\netcoreapp2.1\Numbers100.AssemblyInfoInputs.cache
+C:\Users\Ronad\source\repos\Numbers100\Numbers100\obj\Debug\netcoreapp2.1\Numbers100.AssemblyInfo.cs
+C:\Users\Ronad\source\repos\Numbers100\Numbers100\obj\Debug\netcoreapp2.1\Numbers100.dll
+C:\Users\Ronad\source\repos\Numbers100\Numbers100\obj\Debug\netcoreapp2.1\Numbers100.pdb
